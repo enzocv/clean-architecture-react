@@ -1,11 +1,8 @@
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Hola mundo
-        </p>
+    <div className='App'>
+      <header className='hola'>
+        <p>Hola mundo asd as</p>
       </header>
     </div>
   );
